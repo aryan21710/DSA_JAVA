@@ -1,0 +1,5 @@
+
+This code reads the file line by line, and for each line, it uses a regular expression to match all words in the line.
+The regular expression \w+ is the same one that I described in my previous response.
+It matches one or more word characters.
+To use this code, you'll need to replace "file.txt" with the path to the file that you want to read.
